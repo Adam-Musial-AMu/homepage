@@ -1,0 +1,23 @@
+.boat {
+    background-color: #d0d0de;
+}
+
+.boat__photoCenter {
+    text-align: center;
+}
+
+.boat__image {
+    margin-top: 20px;
+    box-shadow: 5px 5px 0px -3px #0C0C0C,
+        5px 5px 23px 0px #759AEA;
+}
+
+.boat__howToRunPart {
+    background-color: aliceblue;
+    padding: 5px 20px;
+    margin-top: 20px;
+}
+
+.boat__specialElement {
+    color: rgb(224, 18, 18);
+}

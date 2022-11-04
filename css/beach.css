@@ -1,0 +1,19 @@
+.beach {
+    background-color: #d0d0de;
+}
+
+.beach__photoCenter {
+    text-align: center;
+}
+
+.beach__image {
+    margin-top: 20px;
+    box-shadow: 5px 5px 0px -3px #0C0C0C,
+        5px 5px 23px 0px #759AEA;
+}
+
+.beach__dreamingPart {
+    background-color: aliceblue;
+    padding: 5px 20px;
+    margin-top: 20px;
+}

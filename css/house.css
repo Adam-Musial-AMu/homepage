@@ -1,0 +1,19 @@
+.house {
+    background-color: #d0d0de;
+}
+
+.house__photoCenter {
+    text-align: center;
+}
+
+.house__image {
+    margin-top: 20px;
+    box-shadow: 5px 5px 0px -3px #0C0C0C,
+        5px 5px 23px 0px #759AEA;
+}
+
+.house__thinkingPart {
+    background-color: aliceblue;
+    padding: 5px 20px;
+    margin-top: 20px;
+}

@@ -1,0 +1,60 @@
+.pricing {
+    background-color: #d0d0de;
+}
+
+.pricing__table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.pricing__tableHigh {
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 30px;
+}
+
+.pricing__tableCell {
+    border: 1px solid #555;
+    padding: 20px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.pricing__caption {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+
+.pricing__tableHeader {
+    background-color: rgb(55, 55, 239);
+    color: white;
+    font-weight: 400;
+}
+
+.pricing__tableRow:hover {
+    background-color: rgb(199, 199, 239);
+}
+
+.pricing__container {
+    overflow-x: auto;
+    background-color: aliceblue;
+}
+
+.pricing__button {
+    background-color: rgb(55, 55, 239);
+    color: white;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    font-size: 30px;
+    font-family: "Lato", sans-serif;
+    box-shadow: 5px 5px 0px -3px #0C0C0C,
+        5px 5px 8px 0px #759AEA;
+}
+
+.pricing__header {
+    padding: 5px 20px;
+}

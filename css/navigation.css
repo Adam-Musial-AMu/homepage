@@ -1,0 +1,48 @@
+.navigation {
+    border-style: ridge;
+    border-color: aliceblue;
+    border-radius: 50%;
+    border-width: 15px;
+    padding: 50px;
+    margin-bottom: 20px;
+}
+
+.navigation__list {
+    list-style-type: none;
+    font-size: 20px;
+    text-align: center;
+    padding-left: 0px;
+}
+
+.navigation__listItem {
+    margin: 20px 0px;
+}
+
+.navigation__link {
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    padding: 5px 10px;
+    box-shadow: 5px 5px 0px -3px #0C0C0C,
+        5px 5px 8px 0px #759AEA;
+}
+
+.navigation__link--special {
+    background-color: hsl(16, 95%, 49%);
+}
+
+.navigation__link:focus {
+    outline: 5px solid black;
+}
+
+.navigation__link:hover {
+    background-color: blueviolet;
+}
+
+.navigation__link--special:hover {
+    background-color: hsl(16, 95%, 29%);
+}
+
+.navigation__link:active {
+    background-color: crimson;
+}
