@@ -1,4 +1,4 @@
-console.log("Cześć");
+console.log("Witaj w świecie wizualizacji");
 
 let button = document.querySelector(".pricing__button");
 let table = document.querySelector(".pricing__table")
