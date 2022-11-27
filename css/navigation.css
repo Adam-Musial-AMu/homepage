@@ -8,14 +8,18 @@
 }
 
 .navigation__list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
     list-style-type: none;
     font-size: 20px;
     text-align: center;
-    padding-left: 0px;
+    padding-left: 0;
 }
 
 .navigation__listItem {
     margin: 20px 0px;
+    flex-basis: 40%;
 }
 
 .navigation__link {
